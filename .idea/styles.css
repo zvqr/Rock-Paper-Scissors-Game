@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
+.game-btn {
+    margin: 10px;
+}
+
+#message {
+    margin-top: 20px;
+}
